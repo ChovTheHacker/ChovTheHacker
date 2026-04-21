@@ -1,13 +1,5 @@
 <div align="center">
 
-```
-  ██████╗██╗  ██╗ ██████╗ ██╗   ██╗
- ██╔════╝██║  ██║██╔═══██╗██║   ██║
- ██║     ███████║██║   ██║██║   ██║
- ██║     ██╔══██║██║   ██║╚██╗ ██╔╝
- ╚██████╗██║  ██║╚██████╔╝ ╚████╔╝ 
-  ╚═════╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝  
-```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=800&lines=Penetration+Tester+%7C+Security+Researcher;Breaking+Systems+Before+The+Bad+Guys+Do;Linux+Specialist+%7C+Exploit+Developer;No+Discord.+No+Distractions.+Just+Code.;root@localhost~%23+access+granted" alt="Typing SVG" />
 
@@ -159,34 +151,6 @@
 
 </div>
 
----
-
-## `> grep -r "featured_projects" ./`
-
-### 🎯 **Pinned Repositories**
-
-<div align="center">
-  
-<a href="https://github.com/Chov/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chov&repo=REPO_NAME_1&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=ff0000&text_color=c9d1d9" width="48%" />
-</a>
-<a href="https://github.com/Chov/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chov&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=ff0000&text_color=c9d1d9" width="48%" />
-</a>
-
-<a href="https://github.com/Chov/REPO_NAME_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chov&repo=REPO_NAME_3&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=ff0000&text_color=c9d1d9" width="48%" />
-</a>
-<a href="https://github.com/Chov/REPO_NAME_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chov&repo=REPO_NAME_4&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=ff0000&text_color=c9d1d9" width="48%" />
-</a>
-
-</div>
-
-<sub>💡 *Replace REPO_NAME_X with your actual repository names*</sub>
-
----
-
 ## `> cat /specializations/expertise.txt`
 
 ### 🎯 **Core Competencies**
@@ -327,26 +291,13 @@ Connection established. Ready for engagement.
 ### 💀 **Support My Work**
 
 <p>
-  <a href="https://github.com/Chov">
+  <a href="https://github.com/ChovTheHacker">
     <img src="https://img.shields.io/badge/GitHub-Follow-00ff00?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
   </a>
-  <a href="https://github.com/Chov?tab=repositories">
+  <a href="https://github.com/ChovTheHacker?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-Explore-ff0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
   </a>
 </p>
-
-### 📫 **Contact Protocol**
-
-```
-┌─────────────────────────────────────────────────┐
-│ Email:    chov@protonmail.com                   │
-│ PGP Key:  Available on request                  │
-│ Response: Within 24-48 hours                    │
-│                                                 │
-│ ⚠️ No Discord, no social media                  │
-│ ✓  Serious inquiries only                       │
-└─────────────────────────────────────────────────┘
-```
 
 </div>
 
@@ -368,6 +319,6 @@ Connection established. Ready for engagement.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=ACCESS%20DENIED&fontSize=40&fontColor=ff0000&animation=twinkling&fontAlignY=70" width="100%" />
 
-<sub>**Made with ❤️ and ☕ by Chov | Last updated: 2024**</sub>
+<sub>**Made with ❤️ and ☕ by Chov | Last updated: 2026**</sub>
 
 </div>
