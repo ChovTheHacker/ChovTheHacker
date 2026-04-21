@@ -1,33 +1,164 @@
-<h1 align="center">Hi 👋, I'm PersonalPr0xy</h1>
-<h3 align="center">Hacker & Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hackedbypr0xy&label=Profile%20views&color=0e75b6&style=flat" alt="hackedbypr0xy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hackedbypr0xy" alt="hackedbypr0xy" /></a> </p>
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFsZWMxcjl2MXFxaGY2aHgwdHA1dzUxZ3lzeTV5cWFlMjFzdmlsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6SYCGsQkd1vj8Du6uF/giphy.gif"  />
-
-
-- 🔭 I’m currently working on BoostService On TOR
-
-- 👨‍💻 All of my projects are available at [Telegram](https://t.me/Legend_Of_Pr0xyArmy)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/https://www.youtube.com/@pr0xyarmyontop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@pr0xyarmyontop" height="30" width="40" /></a>
-<a href="https://discord.gg/Pr0xyArmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Qx8RHBRZT2" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a 
-src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img 
-
-
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HackedByPr0xy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HackedByPr0xy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+```
+  ██████╗██╗  ██╗ ██████╗ ██╗   ██╗
+ ██╔════╝██║  ██║██╔═══██╗██║   ██║
+ ██║     ███████║██║   ██║██║   ██║
+ ██║     ██╔══██║██║   ██║╚██╗ ██╔╝
+ ╚██████╗██║  ██║╚██████╔╝ ╚████╔╝ 
+  ╚═════╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝  
+```
+
 </div>
 
+<div align="center">
+  
+### `$ whoami`
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Penetration+Tester+%7C+Security+Researcher;Breaking+systems+before+the+bad+guys+do;Linux+enthusiast+%7C+Low-level+hacker;No+Discord.+No+distractions.+Just+code." alt="Typing SVG" />
 
+</div>
+
+---
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Chov&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=ff0000&text_color=c9d1d9&border_radius=10" width="48%" />
+
+### `> access_level: root`
+
+```bash
+$ cat /etc/profile/chov
+```
+
+**Security Researcher** specializing in offensive security operations. I exploit vulnerabilities, reverse engineer binaries, and automate attack vectors. If it runs on Linux, I've probably broken it.
+
+<br clear="right"/>
+
+---
+
+### `> ls -la /skills/`
+
+<div align="center">
+
+```
+drwxr-xr-x  pentesting/
+drwxr-xr-x  exploitation/
+drwxr-xr-x  linux_mastery/
+drwxr-xr-x  automation/
+-rwxr-xr-x  coffee.sh
+```
+
+</div>
+
+<details>
+<summary><b>⚡ Primary Arsenal</b></summary>
+<br>
+
+#### **Languages & Core Tools**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+</p>
+
+#### **Offensive Security Toolkit**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+</p>
+
+#### **Development & Automation**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+</details>
+
+---
+
+### `> cat /var/log/activity.log`
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chov&theme=radical&hide_border=true&background=0d1117&stroke=00ff00&ring=ff0000&fire=ff0000&currStreakLabel=00ff00&sideLabels=c9d1d9&currStreakNum=00ff00&sideNums=c9d1d9&dates=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chov&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&langs_count=8" width="41%" />
+
+</div>
+
+---
+
+### `> grep -r "recent_work" ./projects/`
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Chov&repo=REPO_NAME&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=ff0000&text_color=c9d1d9)](https://github.com/Chov/REPO_NAME)
+
+</div>
+
+<sub>*Replace REPO_NAME with your actual repositories*</sub>
+
+---
+
+### `> echo $PHILOSOPHY`
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────┐
+│ "Efficiency is doing things right.                      │
+│  Effectiveness is doing the right things.               │
+│  Security is breaking both until they can't be broken." │
+│                                                          │
+│  • No social media distractions                         │
+│  • No time wasted on noise                              │
+│  • Just pure focus on the craft                         │
+└──────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### `> sudo systemctl status visitor_count`
+
+![Visitor Count](https://profile-counter.glitch.me/Chov/count.svg)
+
+```
+[root@system ~]# nc -lvp 1337
+Listening on 0.0.0.0:1337
+Connection received. Ready for secure communications.
+```
+
+<sub>**Disclaimer:** All projects are for educational and authorized security research purposes only.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+ ╔═══════════════════════════════════════════════════════╗
+ ║  root@github:~# exit                                  ║
+ ║  logout                                               ║
+ ║                                                       ║
+ ║  [Process completed]                                  ║
+ ╚═══════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Access%20Denied&fontSize=30&fontColor=00ff00&animation=twinkling" width="100%" />
+
+</div>
