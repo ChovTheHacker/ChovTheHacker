@@ -229,13 +229,13 @@
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│ "Efficiency is doing things right.                      │
-│  Effectiveness is doing the right things.               │
-│  Security is breaking both until they can't be broken." │
+│ "Efficiency is doing things right.                       │
+│  Effectiveness is doing the right things.                │
+│  Security is breaking both until they can't be broken."  │
 │                                                          │
-│  • No social media distractions                         │
-│  • No time wasted on noise                              │
-│  • Just pure focus on the craft                         │
+│  • No social media distractions                          │
+│  • No time wasted on noise                               │
+│  • Just pure focus on the craft                          │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -260,12 +260,12 @@
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│  ⚠️  All projects are for educational purposes only         │
+│  ⚠️  All projects are for educational purposes only          │
 │                                                              │
-│  ✓  Authorized security research                           │
-│  ✓  Responsible disclosure                                 │
-│  ✓  Ethical hacking practices                              │
-│  ✗  No illegal activities                                  │
+│  ✓  Authorized security research                             │
+│  ✓  Responsible disclosure                                   │
+│  ✓  Ethical hacking practices                                │
+│  ✗  No illegal activities                                    │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
