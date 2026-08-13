@@ -153,12 +153,13 @@ Service detection performed. 10 services up — scanned in 0.42 seconds
 
 <div align="center">
 
-<a href="https://github.com/ChovTheHacker/CryptoShell-Cpp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChovTheHacker&repo=CryptoShell-Cpp&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff0033&text_color=c9d1d9" width="48%" />
-</a>
-<a href="https://github.com/ChovTheHacker/EREBUS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChovTheHacker&repo=EREBUS&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff0033&text_color=c9d1d9" width="48%" />
-</a>
+### Featured Repositories
+
+[**CryptoShell-Cpp**](https://github.com/ChovTheHacker/CryptoShell-Cpp)  
+*C++ exploitation & cryptography tools*
+
+[**EREBUS**](https://github.com/ChovTheHacker/EREBUS)  
+*Advanced security research framework*
 
 </div>
 
