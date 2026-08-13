@@ -153,16 +153,21 @@ Service detection performed. 10 services up — scanned in 0.42 seconds
 
 <div align="center">
 
-<a href="https://github.com/ChovTheHacker/CryptoShell-Cpp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChovTheHacker&repo=CryptoShell-Cpp&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff0033&text_color=c9d1d9&border_radius=10" width="48%" alt="CryptoShell-Cpp" />
-</a>
-<a href="https://github.com/ChovTheHacker/EREBUS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChovTheHacker&repo=EREBUS&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff0033&text_color=c9d1d9&border_radius=10" width="48%" alt="EREBUS" />
-</a>
+### 🔓 CryptoShell-Cpp
+**C++ Exploitation & Cryptography Framework**
+
+[![Repository](https://img.shields.io/badge/VIEW-Repository-00ff41?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/ChovTheHacker/CryptoShell-Cpp)
+[![Stars](https://img.shields.io/github/stars/ChovTheHacker/CryptoShell-Cpp?style=for-the-badge&color=ff0033&labelColor=0d1117)](https://github.com/ChovTheHacker/CryptoShell-Cpp)
+
+---
+
+### 🔥 EREBUS
+**Advanced Security Research & Exploitation Toolkit**
+
+[![Repository](https://img.shields.io/badge/VIEW-Repository-00ff41?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/ChovTheHacker/EREBUS)
+[![Stars](https://img.shields.io/github/stars/ChovTheHacker/EREBUS?style=for-the-badge&color=ff0033&labelColor=0d1117)](https://github.com/ChovTheHacker/EREBUS)
 
 </div>
-
-<br/>
 
 ---
 
@@ -170,17 +175,35 @@ Service detection performed. 10 services up — scanned in 0.42 seconds
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChovTheHacker&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff0033&text_color=c9d1d9&border_radius=10" width="49%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=ChovTheHacker&hide_border=true&background=0d1117&stroke=00ff41&ring=ff0033&fire=ff0033&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=00ff41&sideNums=c9d1d9&dates=8b949e&border_radius=10" width="49%" alt="GitHub Streak" />
+### 📊 GitHub Overview
 
-<br/><br/>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ChovTheHacker">
+        <img src="https://github-readme-stats.vercel.app/api?username=ChovTheHacker&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff0033&text_color=c9d1d9" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ChovTheHacker">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChovTheHacker&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ChovTheHacker">
+        <img src="https://streak-stats.demolab.com?user=ChovTheHacker&hide_border=true&background=0d1117&stroke=00ff41&ring=ff0033&fire=ff0033&currStreakLabel=00ff41&sideLabels=c9d1d9" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChovTheHacker&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_radius=10" width="48%" alt="Top Languages" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChovTheHacker&custom_title=Commit%20Activity&bg_color=0d1117&color=00ff41&line=ff0033&point=ffffff&area=true&area_color=00ff41&hide_border=true&border_radius=10" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChovTheHacker&custom_title=Commit%20Activity&bg_color=0d1117&color=00ff41&line=ff0033&point=ffffff&area=true&area_color=00ff41&hide_border=true" width="100%" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ChovTheHacker&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" width="100%" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ChovTheHacker&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=5" width="100%" />
 
 </div>
 
