@@ -156,7 +156,7 @@ Service detection performed. 10 services up — scanned in 0.42 seconds
 
 <!-- Vymen "repo=" za realne nazvy repozitaru -->
 <a href="https://github.com/ChovTheHacker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChovTheHacker&repo=NAZEV_REPA_1&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff0033&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChovTheHacker&repo=CryptoShell-Cpp&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff0033&text_color=c9d1d9" width="48%" />
 </a>
 <a href="https://github.com/ChovTheHacker">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChovTheHacker&repo=NAZEV_REPA_2&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff0033&text_color=c9d1d9" width="48%" />
