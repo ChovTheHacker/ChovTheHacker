@@ -1,303 +1,258 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,60:006622,100:00ff41&height=180&section=header&text=ChovTheHacker&fontSize=52&fontColor=00ff41&fontAlignY=38&desc=offensive%20security%20//%20exploit%20dev%20//%20linux&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=800&lines=Penetration+Tester+%7C+Security+Researcher;Breaking+Systems+Before+The+Bad+Guys+Do;Linux+Specialist+%7C+Exploit+Developer;No+Discord.+No+Distractions.+Just+Code.;root@localhost~%23+access+granted" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=780&height=45&lines=root%40localhost%3A~%23+whoami;Penetration+Tester+%2F%2F+Security+Researcher;Breaking+systems+before+the+bad+guys+do;Binary+exploitation+%2F%2F+Reverse+engineering;No+Discord.+No+noise.+Just+code.;Access+granted.+Welcome+in." alt="typing" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Chov&label=Profile%20Views&color=00ff00&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Chov?label=Followers&style=flat-square&color=00ff00&labelColor=0d1117" alt="Followers" />
-</p>
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00ff41?style=for-the-badge&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=ChovTheHacker&label=RECON+HITS&color=00ff41&style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/github/followers/ChovTheHacker?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github" />
+<img src="https://img.shields.io/badge/DISCLOSURE-RESPONSIBLE-ff0033?style=for-the-badge&labelColor=0d1117" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
+
+## `> neofetch`
+
+```
+         ▄▄▄▄▄▄▄▄▄            root@chov
+      ▄█████████████▄         ────────────────────────────────────────────────
+    ▄███▀▀     ▀▀███▄         Role ......... Offensive Security Researcher
+   ███▀  ▄██▄ ▄██▄  ▀███      OS ........... Arch btw · Kali · Parrot · BlackArch
+  ███   ▀████▀████▀   ███     Shell ........ zsh + tmux + neovim
+  ███      ▄▄▄▄▄      ███     Primary ...... C++ · Node.js · Bash · Assembly
+   ███▄   ███████   ▄███      Focus ........ binexp · webapp · zero-day research
+    ▀███▄▄ ▀▀▀▀▀ ▄▄███▀       Uptime ....... 24/7
+      ▀█████████████▀         Coffee ....... buffer overflow
+         ▀▀▀▀▀▀▀▀▀            Socials ...... /dev/null
+```
+
+> **Offensive security specialist.** Penetration testing, vulnerability research,
+> exploit development. Low-level tooling in **C++**, automation frameworks in
+> **Node.js**, ten years deep in **Linux**. Everything published here is
+> authorized research, CTF work, and responsibly disclosed findings.
+
+---
+
+## `> nmap -sV -p- --open skills.local`
+
+```
+Starting Nmap 7.95 ( https://nmap.org ) at 2026-08-13 03:14 CEST
+Nmap scan report for skills.local (127.0.0.1)
+Host is up (0.00013s latency).
+Not shown: 65525 filtered ports
+
+PORT       STATE SERVICE      VERSION
+22/tcp     open  bash         GNU bash 5.2      — automation, sysadmin, glue
+80/tcp     open  html-css     semantic UI       — web assessment, sim frontends
+443/tcp    open  javascript   ES2024            — XSS/DOM analysis, browser automation
+1337/tcp   open  c++          GCC 13 / Clang 17 — exploit dev, low-level tooling
+3000/tcp   open  nodejs       v22 LTS           — testing frameworks, APIs
+4444/tcp   open  python       3.12              — CTF, PoCs, rapid prototyping
+5000/tcp   open  csharp       .NET 8            — Windows internals, .NET reversing
+8080/tcp   open  golang       1.22              — concurrent scanners
+9001/tcp   open  rust         edition 2021      — memory-safe tooling, parsers
+31337/tcp  open  assembly     x86-64 / ARM      — shellcode, ROP, patching
+
+Service detection performed. 10 services up — scanned in 0.42 seconds
+```
+
+---
+
+## `> ./arsenal --list`
+
+<div align="center">
+
+**`[01] offensive`**
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-0078D4?style=flat-square&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/ffuf-1E1E1E?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/sqlmap-D71F00?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/BloodHound-CC0000?style=flat-square&logoColor=white" />
+
+**`[02] reversing & debugging`**
+
+<img src="https://img.shields.io/badge/Ghidra-FF0033?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/IDA_Pro-00BFFF?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/radare2-800080?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/GDB_+_pwndbg-000000?style=flat-square&logo=gnu&logoColor=white" />
+<img src="https://img.shields.io/badge/pwntools-2C3E50?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AFL++-654FF0?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/strace_/_ltrace-FCC624?style=flat-square&logo=linux&logoColor=black" />
+
+**`[03] distros`**
+
+<img src="https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Parrot_OS-33CCCC?style=flat-square&logo=parrotsecurity&logoColor=black" />
+<img src="https://img.shields.io/badge/BlackArch-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
+
+**`[04] stack`**
+
+<img src="https://skillicons.dev/icons?i=cpp,rust,nodejs,js,cs,python,bash,go,linux,arch&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vim,vscode,cmake,docker,kubernetes,nginx,postgres,redis&perline=10&theme=dark" />
 
 </div>
 
 ---
 
-## `> whoami`
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Chov&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=ff0000&text_color=c9d1d9&include_all_commits=true&count_private=true" width="50%" />
-
-```bash
-┌──(root㉿localhost)-[~]
-└─$ cat profile.txt
-```
-
-**Offensive Security Specialist** with expertise in penetration testing, vulnerability research, and exploit development. Deep Linux knowledge across all major distributions. Building low-level tools in C++ and automation frameworks in Node.js.
-
-### `> current_status`
-```
-[+] Exploiting: Web Applications, Networks, Systems
-[+] Developing: Custom Exploit Tools & Automation Scripts
-[+] Researching: Zero-day Vulnerabilities
-[+] Focus: Maximum efficiency, zero distractions
-```
-
-<br clear="right"/>
-
----
-
-## `> cat /skills/technical_stack.json`
-
-### 💻 **Primary Languages**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,nodejs,js,html,css,cs,python,bash,rust,go&perline=10" />
-</p>
+## `> cat /specializations`
 
 <div align="center">
-
-| Language | Proficiency | Use Case |
-|----------|-------------|----------|
-| **C++** | ████████████ 95% | Exploit Development, Binary Manipulation, Performance-Critical Tools |
-| **Node.js** | ████████████ 90% | Automation, API Development, Security Testing Frameworks |
-| **JavaScript** | ███████████░ 88% | Web Exploitation, XSS/DOM Analysis, Browser Automation |
-| **C#** | ██████████░░ 80% | Windows Exploit Development, .NET Reversing |
-| **HTML/CSS** | ███████████░ 85% | Web Application Testing, Phishing Framework Development |
-| **Python** | ████████░░░░ 75% | Scripting, CTF Tools, Quick Prototyping |
-| **Bash** | ████████████ 92% | System Automation, Shell Scripting, Linux Administration |
-
-</div>
-
----
-
-## `> ls -la /arsenal/`
-
-### 🔴 **Offensive Security Tools**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Parrot_OS-33CCCC?style=for-the-badge&logo=parrotsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-</p>
-
-### 🐧 **Linux & System Tools**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,debian,redhat,nginx,docker,kubernetes&perline=8" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white" />
-  <img src="https://img.shields.io/badge/strace-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/ltrace-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDA_Pro-00BFFF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/radare2-800080?style=for-the-badge&logoColor=white" />
-</p>
-
-### 🛠️ **Development & DevOps**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,docker,kubernetes,jenkins,ansible,terraform&perline=10" />
-</p>
-
-### 🌐 **Web & Network Technologies**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,express,nginx,apache,mongodb,mysql,postgresql,redis,graphql,webpack&perline=10" />
-</p>
-
-### 🔧 **Frameworks & Libraries**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Boost-734F96?style=for-the-badge&logo=boost&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-</p>
-
----
-
-## `> cat /var/log/activity.log`
-
-### 📊 **GitHub Statistics**
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chov&theme=radical&hide_border=true&background=0d1117&stroke=00ff00&ring=ff0000&fire=ff0000&currStreakLabel=00ff00&sideLabels=c9d1d9&currStreakNum=00ff00&sideNums=c9d1d9&dates=c9d1d9" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chov&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&langs_count=10" width="49%" />
-</div>
-
-### 🏆 **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chov&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
-</div>
-
-### 📈 **Contribution Graph**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chov&theme=radical&hide_border=true&bg_color=0d1117&color=00ff00&line=ff0000&point=00ff00&area=true&area_color=00ff00" width="100%" />
-</div>
-
-### ⚡ **Recent Activity**
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<div align="center">
-  
-```
-[>] Last active: Just now
-[>] System uptime: 24/7
-[>] Coffee consumption: Maximum
-[>] Social media: /dev/null
-```
-
-</div>
-
-## `> cat /specializations/expertise.txt`
-
-### 🎯 **Core Competencies**
-
-<div align="center">
-
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-**🔴 Penetration Testing**
+**`◤ PENETRATION TESTING ◢`**
 ```
-• Web Application Security
-• Network Penetration Testing
-• API Security Assessment
-• Mobile App Security
-• Infrastructure Testing
-```
-
-</td>
-<td width="33%" align="center">
-
-**💻 Exploit Development**
-```
-• Binary Exploitation
-• Memory Corruption
-• Shellcode Development
-• ROP Chains
-• Custom Payload Crafting
+› Web application security
+› Network & internal testing
+› API / GraphQL assessment
+› Mobile app security
+› Cloud & container review
 ```
 
 </td>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-**🛠️ Tool Development**
+**`◤ EXPLOIT DEVELOPMENT ◢`**
 ```
-• Security Automation
-• Custom Exploit Tools
-• Vulnerability Scanners
-• Network Analysis Tools
-• Post-Exploitation Frameworks
+› Binary exploitation
+› Memory corruption
+› Heap grooming
+› ROP / JOP chains
+› Mitigation bypass
+```
+
+</td>
+<td width="33%" valign="top">
+
+**`◤ TOOL DEVELOPMENT ◢`**
+```
+› Security automation
+› Fuzzing harnesses
+› Vulnerability scanners
+› Traffic analysis tooling
+› CI-driven recon pipelines
 ```
 
 </td>
 </tr>
 </table>
+</div>
+
+---
+
+## `> ls -la ~/projects`
+
+<div align="center">
+
+<!-- Vymen "repo=" za realne nazvy repozitaru -->
+<a href="https://github.com/ChovTheHacker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChovTheHacker&repo=NAZEV_REPA_1&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff0033&text_color=c9d1d9" width="48%" />
+</a>
+<a href="https://github.com/ChovTheHacker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChovTheHacker&repo=NAZEV_REPA_2&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff0033&text_color=c9d1d9" width="48%" />
+</a>
 
 </div>
 
 ---
 
-## `> cat /certifications/achievements.log`
-
-### 📜 **Professional Certifications & Achievements**
+## `> tail -f /var/log/activity.log`
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│ [✓] Self-taught Security Researcher                        │
-│ [✓] Active Bug Bounty Hunter                               │
-│ [✓] Open Source Contributor                                │
-│ [✓] CTF Competitor                                          │
-│ [✓] Linux Power User (10+ years)                           │
-│ [✓] Zero-day Vulnerability Researcher                      │
-└─────────────────────────────────────────────────────────────┘
-```
+<img src="https://github-readme-stats.vercel.app/api?username=ChovTheHacker&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff0033&text_color=c9d1d9" width="49%" />
+<img src="https://streak-stats.demolab.com?user=ChovTheHacker&hide_border=true&background=0d1117&stroke=00ff41&ring=ff0033&fire=ff0033&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=00ff41&sideNums=c9d1d9&dates=8b949e" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChovTheHacker&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="42%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChovTheHacker&custom_title=Commit%20Activity&bg_color=0d1117&color=00ff41&line=ff0033&point=ffffff&area=true&area_color=00ff41&hide_border=true" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=ChovTheHacker&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" width="100%" />
+
+</div>
+
+### `> ./snake --eat-contributions`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChovTheHacker/ChovTheHacker/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChovTheHacker/ChovTheHacker/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ChovTheHacker/ChovTheHacker/output/github-snake.svg" width="100%" />
+</picture>
 
 </div>
 
 ---
 
-## `> echo $PHILOSOPHY`
+<details>
+<summary><b><code>> cat /etc/motd</code></b> &nbsp;&nbsp;<sub>— click to decrypt</sub></summary>
+
+<br/>
 
 <div align="center">
-
-```
-┌──────────────────────────────────────────────────────────┐
-│ "Efficiency is doing things right.                       │
-│  Effectiveness is doing the right things.                │
-│  Security is breaking both until they can't be broken."  │
-│                                                          │
-│  • No social media distractions                          │
-│  • No time wasted on noise                               │
-│  • Just pure focus on the craft                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-
-## `> sudo systemctl status metrics`
-
-### 📊 **Profile Analytics**
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Chov&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge&labelColor=0d1117" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Chov?label=FOLLOWERS&style=for-the-badge&color=00ff00&labelColor=0d1117&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Chov?label=TOTAL+STARS&style=for-the-badge&color=ff0000&labelColor=0d1117&logo=github" alt="Total Stars" />
-</p>
-
-### 🔒 **Security Notice**
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│  ⚠️  All projects are for educational purposes only          │
+│   "Efficiency is doing things right.                         │
+│    Effectiveness is doing the right things.                  │
+│    Security is breaking both until they can't be broken."    │
 │                                                              │
-│  ✓  Authorized security research                             │
-│  ✓  Responsible disclosure                                   │
-│  ✓  Ethical hacking practices                                │
-│  ✗  No illegal activities                                    │
+│   [+] Self-taught security researcher                        │
+│   [+] Active bug bounty hunter                               │
+│   [+] CTF competitor · open-source contributor               │
+│   [+] Linux power user — 10+ years                           │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-### 🌐 **Network Status**
-
 ```bash
-[root@system ~]# netstat -tulpn | grep LISTEN
-tcp    0    0 0.0.0.0:1337    0.0.0.0:*    LISTEN    666/exploit
-tcp    0    0 0.0.0.0:31337   0.0.0.0:*    LISTEN    1337/backdoor
-tcp    0    0 0.0.0.0:8080    0.0.0.0:*    LISTEN    420/webserver
+[root@lab ~]# netstat -tulpn | grep LISTEN
+tcp   0   0 127.0.0.1:1337   0.0.0.0:*   LISTEN   1337/recon-engine
+tcp   0   0 127.0.0.1:8080   0.0.0.0:*   LISTEN   8080/burp-proxy
+tcp   0   0 127.0.0.1:9090   0.0.0.0:*   LISTEN   9090/fuzz-harness
 
-[root@system ~]# echo "Connection established. Ready for engagement."
+[root@lab ~]# echo "Connection established. Ready for engagement."
 Connection established. Ready for engagement.
 ```
 
 </div>
 
+</details>
+
 ---
+
+## `> gpg --fingerprint chov`
+
+```
+pub   ed25519 2026-01-01 [SC]
+      XXXX XXXX XXXX XXXX XXXX  XXXX XXXX XXXX XXXX XXXX
+uid   Chov <chov@example.com>
+sub   cv25519 2026-01-01 [E]
+```
+
+> Encrypt anything sensitive. Vulnerability reports welcome — plaintext ones, less so.
+
+### `⚠ RULES OF ENGAGEMENT`
 
 <div align="center">
 
-### 💀 **Support My Work**
-
-<p>
-  <a href="https://github.com/ChovTheHacker">
-    <img src="https://img.shields.io/badge/GitHub-Follow-00ff00?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-  </a>
-  <a href="https://github.com/ChovTheHacker?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-ff0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-  </a>
-</p>
+```
+✓ Authorized testing only        ✓ Responsible disclosure
+✓ Scoped, documented, legal      ✓ Research & education
+✗ No unauthorized access         ✗ No illegal activity
+```
 
 </div>
 
@@ -305,20 +260,27 @@ Connection established. Ready for engagement.
 
 <div align="center">
 
+## `> connect`
+
+<a href="https://github.com/ChovTheHacker">
+  <img src="https://img.shields.io/badge/GITHUB-FOLLOW-00ff41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://github.com/ChovTheHacker?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-ff0033?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
 ```
  ╔═══════════════════════════════════════════════════════╗
- ║                                                       ║
  ║  root@github:~# exit                                  ║
  ║  logout                                               ║
- ║                                                       ║
  ║  Connection to github.com closed.                     ║
- ║  [Process completed]                                  ║
- ║                                                       ║
  ╚═══════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=ACCESS%20DENIED&fontSize=40&fontColor=ff0000&animation=twinkling&fontAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,60:006622,100:0d1117&height=110&section=footer&text=SESSION%20TERMINATED&fontSize=26&fontColor=0d1117&fontAlignY=72&animation=twinkling" width="100%" />
 
-<sub>**Made with ❤️ and ☕ by Chov | Last updated: 2026**</sub>
+<sub><code>built with C++, caffeine and root access</code> · <b>Chov</b> · 2026</sub>
 
 </div>
